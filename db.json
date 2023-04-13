@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": "karan",
+      "name": "Karan",
+      "password": "karan",
+      "email": "karan@karan.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Test",
+      "name": "test",
+      "password": "test",
+      "email": "test@test.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    },
+    {
+      "code": "admin",
+      "name": "Admin"
+    }
+  ]
+}
